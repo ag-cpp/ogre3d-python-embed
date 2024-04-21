@@ -13,3 +13,5 @@ More detailed instructions will come in the future.
 # How does this work
 
 See [Embedding Python](EmbeddingPython.md) for a discussion of embedding a Python runtime in a C++ application in Visual Studio 2017.
+
+Main article posted [here on devblogs](https://devblogs.microsoft.com/python/embedding-python-in-a-cpp-project-with-visual-studio/)
